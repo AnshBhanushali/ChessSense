@@ -1,3 +1,4 @@
 python-chess
 requests
-google-generative-ai
+google-generativeai
+
