@@ -41,14 +41,17 @@ chesssense/
 ├── visualizer.py
 ├── requirements.txt
 └── README.md
+
 🔧 Installation
+
 1️⃣ Clone the repository:
 
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/chesssense.git
+git clone https://github.com/anshbhanusahali/chesssense.git
 cd chesssense
+
 2️⃣ Set up the virtual environment and install dependencies:
 
 bash
